@@ -1,1 +1,13 @@
 # MIS547
+Installed a system package manager (homebrew for MacOS or choclatey for Windows) [x]
+Installed Docker Desktop [x]
+Installed Python dev tools [x]
+Installed git [x]
+Installed VSCode [x]
+Set up a GitHub account, added my SSH keys, and set my name and email address [x]
+Created an AWS Account [x]
+Created a GCP Account [x]
+Created an Azure Account [x]
+Created a DigitalOcean Account [x]
+Created a Slack Account and Joined the MIS547 Slack Workspace [x]
+Cloned the Lab 0 repository [x]
